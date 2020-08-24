@@ -85,7 +85,7 @@ img {
     font-size: 16px;
     line-height: 28px;
     color: #FFFFFF;
-    width: 420px;
+    max-width: 420px;
     margin-top: 20px;
     margin-bottom: 0;
 }
